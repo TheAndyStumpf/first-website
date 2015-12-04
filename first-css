@@ -1,0 +1,9 @@
+body {
+  font='Verdana'
+  font size='10'
+  }
+
+h1 {
+  font='Arial'
+  font size='15'
+  }
